@@ -30,9 +30,7 @@ Our primary objective is to segment brain tumors by labeling each pixel as "1" f
 5. **Results and Visualization:** Compare model predictions with ground truth to visualize performance.
 
 ## Target Audience
-This Github Respository, specifically the Jupyter notebook is structured to be accessible for beginners, providing detailed explanations and a step-by-step approach, while also encompassing advanced techniques for seasoned practitioners.
-
-Let's dive into the world of medical imaging and deep learning to make significant strides in healthcare technology!
+This Github Respository, specifically the Jupyter notebook is structured to be accessible for beginners, providing detailed explanations and a step-by-step approach, while also encompassing advanced techniques for seasoned practitioners. Let's dive into the world of medical imaging and deep learning to make significant strides in healthcare technology!
 
 ## Contact
 
