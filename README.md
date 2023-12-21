@@ -6,7 +6,7 @@
 Welcome to the Brain Tumor Segmentation Project! This Github Repository is designed for both newcomers and experienced professionals in the field of machine learning. Our aim is to develop a model capable of accurately segmenting brain tumors from MRI scans using deep learning techniques.
 
 ## Dataset
-We are utilizing the Brain Tumor Segmentation (BraTS2020) dataset from Kaggle (https://www.kaggle.com/datasets/awsaf49/brats2020-training-data). This dataset includes multimodal MRI scans in NIfTI format (.nii.gz), encompassing various volumes:
+We are utilizing the Brain Tumor Segmentation (BraTS2020) dataset from Kaggle (https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data). This dataset includes multimodal MRI scans in NIfTI format (.nii.gz), encompassing various volumes:
 
 1. Native (T1)
 2. Post-contrast T1-weighted (T1Gd)
