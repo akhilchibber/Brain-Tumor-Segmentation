@@ -29,11 +29,16 @@ Our primary objective is to segment brain tumors by labeling each pixel as "1" f
 4. **Model Evaluation:** Assess model performance using metrics like accuracy, precision, recall, and F1 score.
 5. **Results and Visualization:** Compare model predictions with ground truth to visualize performance.
 
+## Getting Started
+1. Clone the repository to your local machine or open it in Google Colab.
+2. Ensure you have the required libraries installed: `torch`, `numpy`, `pandas`, `matplotlib`, `nibabel`, `scikit-learn`, `seaborn`, `scipy`, `SimpleITK`, `albumentations`.
+3. Download the BraTS2020 dataset from Kaggle and adjust the file paths in the notebook accordingly.
+4. Run the Jupyter Notebook to train and evaluate the brain tumor segmentation model.
+   
 ## Target Audience
 This Github Respository, specifically the Jupyter notebook is structured to be accessible for beginners, providing detailed explanations and a step-by-step approach, while also encompassing advanced techniques for seasoned practitioners. Let's dive into the world of medical imaging and deep learning to make significant strides in healthcare technology!
 
 ## Contributing
-
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
 1. Fork the Project.
@@ -45,6 +50,7 @@ We welcome contributions to enhance the functionality and efficiency of this scr
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
 ## Contact
 
 Author: Akhil Chhibber
